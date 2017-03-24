@@ -1,0 +1,1 @@
+# Data manually downloaded and cleaned from https://embassy.goabroad.com/embassies-of/united-kingdom
