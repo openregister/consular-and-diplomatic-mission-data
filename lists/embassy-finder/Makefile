@@ -1,0 +1,1 @@
+# data manually downloaded and cleaned from https://embassy-finder.com/united-kingdom_embassies
