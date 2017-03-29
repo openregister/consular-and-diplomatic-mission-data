@@ -1,6 +1,6 @@
-# Embassy Data
+# Consular and diplomatic mission Data
 
-Data for the backlog [embassy](http://notifiable-animal-disease.openregister.org),
+Data for the backlog [consular and diplomatic mission](http://notifiable-animal-disease.openregister.org),
 a list of the United Kingdoms Embassies around the world.
 
 
